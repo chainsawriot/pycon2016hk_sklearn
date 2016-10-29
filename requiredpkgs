@@ -1,0 +1,12 @@
+build-essential
+module-assistant
+python-dev
+gfortran
+libatlas-base-dev
+pkg-config
+libpng-dev
+libjpeg-dev
+libfreetype6-dev
+virtualenv
+python-pip
+

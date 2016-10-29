@@ -10,6 +10,16 @@ Download Virtual Box (https://www.virtualbox.org/) and then File -> Import Appli
 
 Username and password for the VM is 'pycon'
 
+If you know how to do so, please switch on the VM and then download the Anaconda Python Distribution.
+
+```
+wget https://repo.continuum.io/archive/Anaconda2-4.2.0-Linux-x86_64.sh
+```
+
+Also, download the dataset and notebooks from here. (You can clone if you know how to do so.)
+
+https://github.com/chainsawriot/pycon2016hk_sklearn
+
 2. Basic of jupyter and pandas
 
 3. Higher order understanding of machine learning
@@ -18,7 +28,4 @@ Username and password for the VM is 'pycon'
 
 5. Real life example of supervised learning
 
-6. Textbook example of unsupervised learning
-
-7. Real life example of unsupervised learning
-
+6. Real life example of unsupervised learning
