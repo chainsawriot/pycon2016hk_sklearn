@@ -8,6 +8,8 @@ You don't need this VM if you know how to use pip, virtualenv and brew/apt-get o
 
 Download Virtual Box (https://www.virtualbox.org/) and then File -> Import Appliance.
 
+Username and password for the VM is 'pycon'
+
 2. Basic of jupyter and pandas
 
 3. Higher order understanding of machine learning
