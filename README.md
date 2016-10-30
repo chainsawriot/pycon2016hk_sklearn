@@ -1,6 +1,10 @@
 # pycon2016hk_sklearn
 
-1. Setup
+## Slides
+
+https://docs.google.com/presentation/d/1kHznjnlO1izgQ88HWx1nnSjiBAYTXwxDxa37v0Jjm7Q/edit?usp=sharing
+
+## Setup
 
 Get the Linux VM here: https://drive.google.com/file/d/0Bz_b4-2EHFopQWl2d1lxdHlGd28/view?usp=sharing
 
@@ -20,12 +24,15 @@ Also, download the dataset and notebooks from here. (You can clone if you know h
 
 https://github.com/chainsawriot/pycon2016hk_sklearn
 
-2. Basic of jupyter and pandas
 
-3. Higher order understanding of machine learning
+## Rundown
 
-4. Textbook example of supervised learning
+1. Basic of jupyter and pandas
 
-5. Real life example of supervised learning
+2. Higher order understanding of machine learning
 
-6. Real life example of unsupervised learning
+3. Textbook example of supervised learning
+
+4. Real life example of supervised learning
+
+5. Real life example of unsupervised learning
